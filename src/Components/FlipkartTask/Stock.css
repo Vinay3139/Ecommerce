@@ -1,0 +1,80 @@
+.Stock{
+    margin: 30px;
+    width: 250px;
+    padding: 6px;
+}
+
+.Container{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 7px;
+    width: 300px;
+    height: 400px;
+}
+
+
+.Link{
+margin-top: 10px;
+text-decoration: none;
+color:black
+}
+
+.Link:hover{
+    color:#2874f0
+}
+
+.about{
+    color:#878787
+}
+
+.MainContainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.Rating_Price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.countPrice{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.countPrice:hover{
+    cursor: pointer;
+}
+
+.rating_Star{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.check_Box{
+    width:175px;
+    margin-top:7px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 813px; 
+    margin-left: 8px;
+}
+
+.star_Rating{
+    margin: 11px;
+    padding: 3px;
+}
+
+.star_Rating input{
+    margin: 6px;
+}
+
+.rating_Box{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 56px;
+   height: 28px;
+   background-color: #388e3c;
+   border-radius: 9px;
+   color: white;
+}

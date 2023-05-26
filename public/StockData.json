@@ -1,0 +1,85 @@
+[
+    
+        {
+            "id":1,
+            "title":"Egate L9 Pro Android Full HD 1080p (8400 lm / Wireless",
+            "img":"https://rukminim1.flixcart.com/image/416/416/xif0q/projector/p/9/m/-original-imaghvkb5h5zprku.jpeg?q=70",
+            "price":15199,
+            "about":"Egate O9 Android Full HD 1080P",
+            "rating":4.3,
+            "isChecked":true,
+            "discount":"Upto ₹1,200 Off on Exchange"
+        },{
+            "id":2,
+            "title":"Egate i9 Pro HD 720p (2400 L / 1 Speaker / Remote Controller) ",
+            "img":"https://rukminim1.flixcart.com/image/200/200/xif0q/projector/h/u/s/-original-imafwnfzxqp3yymc.jpeg?q=90",
+            "price":2000,
+            "about":"Egate i9 Pro HD 720p",
+            "rating":3.5,
+            "isChecked":true,
+            "discount":"Upto ₹1,500 Off on Exchange"
+
+        },
+        {
+            "id":3,
+            "title":"HP DeskJet 2723 Multi-function WiFi Color Inkjet Printer   ",
+            "img":"https://rukminim1.flixcart.com/image/612/612/kd94uq80/printer/q/z/w/hp-deskjet-plus-ia-6075-original-imafu6gdnzddwmph.jpeg?q=70",
+            "price":4500,
+            "about":"Black,Iink Tank",
+            "rating":2,
+            "isChecked":false,
+            "discount":"Upto ₹1,000 Off on Exchange"
+        },{
+            "id":4,
+            "title":"brother DCP-T525W All-in-One Refill Multi-function WiFi Color",
+            "img":"https://rukminim1.flixcart.com/image/612/612/kb89ea80/printer/g/q/2/canon-ts307-direct-wifi-original-imafsmk9yu57jagn.jpeg?q=70",
+            "price":5550,
+            "about":"White,Ink Bottle",
+            "rating":1.5,
+            "isChecked":false,
+            "discount":"Upto ₹1,600 Off on Exchange"
+
+        },{
+            "id":5,
+            "title":"Canon PIXMA TS307 Single Function WiFi Color Inkjet Printer  (Black, Ink )",
+            "img":"https://rukminim1.flixcart.com/image/612/612/kah413k0/printer/k/f/g/brother-hl-l2321d-ind-original-imafsffc6q5bfym4.jpeg?q=70",
+            "price":5000,
+            "about":"Whie Ink Cartridge",
+            "rating":4,
+            "isChecked":false,
+            "discount":"Upto ₹100 Off on Exchange"
+
+        },{
+            "id":6,
+            "title":"brother DCP-T525W All-in-One Refill Multi-function WiFi Color",
+            "img":"https://rukminim1.flixcart.com/image/612/612/johi3680/printer/m/9/6/canon-e410-original-imafaxxj5h67ta3v.jpeg?q=70",
+            "price":5500,
+            "about":"White Ink Tank",
+            "rating":3,
+            "isChecked":false,
+            "discount":"Upto ₹1,500 Off on Exchange"
+
+        },{
+            "id":7,
+            "title":"brother DCP-T426W Multi-function WiFi Color Inkjet Printer for Home Usage",
+            "img":"https://rukminim1.flixcart.com/image/612/612/l2nmnww0/printer/t/x/e/-original-imagdy5ta7t7wggp.jpeg?q=70",
+            "price":6000,
+            "about":"Black,red Ink Tank",
+            "rating":4.5,
+            "isChecked":false,
+            "discount":"Upto ₹1,400 Off on Exchange"
+
+        },{
+            "id":8,
+            "title":"brother DCP-T525W All-in-One Refill Multi-function WiFi Color",
+            "img":"https://rukminim1.flixcart.com/image/612/612/xif0q/printer/d/7/z/-original-imagnzgbgk8tdnxh.jpeg?q=70",
+            "price":6500,
+            "about":"Multi function Wi-fi",
+            "rating":2,
+            "isChecked":false,
+            "discount":"Upto ₹1,100 Off on Exchange"
+
+        }
+       
+    
+    ]
